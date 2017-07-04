@@ -22,7 +22,7 @@
   "devDependencies": {},
   "dependencies": {
     "broccoli-writer": "^0.1.1",
-    "rsvp": "^3.2.1",
+    "rsvp": "^4.6.1",
     "systemjs-builder": "^0.15.12"
   }
 }
